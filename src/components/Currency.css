@@ -1,0 +1,11 @@
+.custom-select {
+    background-color: #d3f9d8;
+    color: #333;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.custom-select option {
+    background-color: #d3f9d8;
+    color: #333;
+}
